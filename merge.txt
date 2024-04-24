@@ -1,0 +1,60 @@
+
+
+Program execution time for array of size 50000 = 0.006319 seconds
+
+
+Program execution time for array of size 100000 = 0.013028 seconds
+
+
+Program execution time for array of size 150000 = 0.022221 seconds
+
+
+Program execution time for array of size 200000 = 0.028352 seconds
+
+
+Program execution time for array of size 250000 = 0.034858 seconds
+
+
+Program execution time for array of size 300000 = 0.043811 seconds
+
+
+Program execution time for array of size 350000 = 0.051281 seconds
+
+
+Program execution time for array of size 400000 = 0.059019 seconds
+
+
+Program execution time for array of size 450000 = 0.066048 seconds
+
+
+Program execution time for array of size 500000 = 0.071034 seconds
+
+
+Program execution time for array of size 550000 = 0.078490 seconds
+
+
+Program execution time for array of size 600000 = 0.086585 seconds
+
+
+Program execution time for array of size 650000 = 0.092292 seconds
+
+
+Program execution time for array of size 700000 = 0.100730 seconds
+
+
+Program execution time for array of size 750000 = 0.112482 seconds
+
+
+Program execution time for array of size 800000 = 0.119685 seconds
+
+
+Program execution time for array of size 850000 = 0.131983 seconds
+
+
+Program execution time for array of size 900000 = 0.132190 seconds
+
+
+Program execution time for array of size 950000 = 0.140484 seconds
+
+
+Program execution time for array of size 1000000 = 0.149963 seconds
